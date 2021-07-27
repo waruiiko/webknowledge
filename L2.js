@@ -1,7 +1,9 @@
 function thisButton() {
-    // document.getElementById('ss').click()
     console.log("hello!")
-    // var a = 1
-    var\uFEFFa = 1
+    var a ,b
+    a = 123 * 32
+    b = 123 <<4
+    // var\uFEFFa = 1
     console.log(a)
+    console.log(b)
 }
